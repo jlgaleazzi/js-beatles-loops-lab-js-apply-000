@@ -18,6 +18,7 @@ function johnLennonFacts(arr) {
 
 function iLoveTheBeatles(n) {
   var arr = [];
+  var times;
   if (n === 7) {times = 8;}
   if (n === 17) {times = 1}l
   for (var i=0;i<times;i++) {
